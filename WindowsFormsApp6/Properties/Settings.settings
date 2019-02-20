@@ -1,7 +1,14 @@
 ﻿<?xml version='1.0' encoding='utf-8'?>
-<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)">
-  <Profiles>
-    <Profile Name="(Default)" />
-  </Profiles>
-  <Settings />
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="WindowsFormsApp6.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ConnectionString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Callback URL=http://localhost:33333;Data Center=east02;Default Data Area=P20V01C081KON0002;Initiate OAuth=GETANDREFRESH;OAuth Client Id=d92b150525f043a6bf990b92562b35f0;OAuth Client Secret="WM53oklojUklhUg9pKSaD8CAiweSbS2ioWPhPkAOnEY="&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.CData.PCASales&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Callback URL=http://localhost:33333;Data Center=east02;Default Data Area=P20V01C081KON0002;Initiate OAuth=GETANDREFRESH;OAuth Client Id=d92b150525f043a6bf990b92562b35f0;OAuth Client Secret="WM53oklojUklhUg9pKSaD8CAiweSbS2ioWPhPkAOnEY="</Value>
+    </Setting>
+  </Settings>
 </SettingsFile>
